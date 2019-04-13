@@ -9,5 +9,8 @@ function whisper(string) {
 
 
 funtion logShout(string) {
-  
+  if string.toUpperCase === uppercase()
+  return string()
+  else
+  return string.toUpperCase()
 }
