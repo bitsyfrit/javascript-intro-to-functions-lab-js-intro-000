@@ -3,6 +3,6 @@ function shout(string) {
 }
 
 
-Function whisper(string) {
+function whisper(string) {
   return string.toLowerCare()
 }
